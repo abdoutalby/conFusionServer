@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/abdoutalby/serverSideCoursera/issues"
   },
-  "homepage": "https://github.com/abdoutalby/serverSideCoursera#readme"
+  "homepage": "https://github.com/abdoutalby/serverSideCoursera#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
