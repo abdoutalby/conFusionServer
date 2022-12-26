@@ -1,0 +1,21 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "coursera course",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdoutalby/serverSideCoursera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdoutalby/serverSideCoursera/issues"
+  },
+  "homepage": "https://github.com/abdoutalby/serverSideCoursera#readme"
+}
